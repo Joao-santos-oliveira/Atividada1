@@ -1,5 +1,5 @@
 let Saldo = prompt('Insira seu saldo inicial');
-const ValorProduto = 20
+let ValorProduto = prompt('Insiria o valor da compra que você quer efetuar')
 
 Saldo = parseInt(Saldo)
 
